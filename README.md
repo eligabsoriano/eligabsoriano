@@ -42,3 +42,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/212284145-bf2c01a8-c448-4f1a-b911-99cc33e48a4c.gif" width="300">
+</div>
