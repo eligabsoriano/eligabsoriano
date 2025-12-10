@@ -1,4 +1,4 @@
-<h1 align="center">Eli Gabriel Soriano</h1>
+<h2 align="center">Eli Gabriel Soriano</h2>
 
 <p align="center">
   Software Developer • Backend Developer • AI/ML Learner
