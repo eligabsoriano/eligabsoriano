@@ -1,4 +1,4 @@
-<h1 align="center">Hi, I'm Eli Gabriel Soriano</h1>
+<h1 align="center">Eli Gabriel Soriano</h1>
 
 <p align="center">
   Software Developer • Backend Developer • AI/ML Learner
