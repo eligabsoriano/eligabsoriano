@@ -7,7 +7,7 @@
 ---
 
 ## 👤 About
-Focused on backend engineering and modern web development, I create scalable systems using JavaScript, Python, PHP, and TypeScript. I work across APIs, full-stack solutions, and cloud services while exploring mobile development to stay flexible as a developer. Recently, I've been diving deeper into AI and machine learning—integrating intelligent features into projects and using generative AI to enhance development workflows and build smarter applications.
+Focused on backend engineering, modern web development, and mobile development, I build scalable systems and clean architectures using JavaScript, Python, PHP, and TypeScript. I work across APIs, full-stack solutions, and cloud services to create reliable, efficient applications. Lately, I've been diving deeper into AI and machine learning—integrating intelligent features into projects and using generative AI to enhance development workflows and build smarter applications.
 
 ---
 
